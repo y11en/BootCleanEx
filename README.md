@@ -9,3 +9,10 @@
 
 ![](https://github.com/y11en/BootCleanEx/blob/master/demo.gif)
 
+
+
+
+
+
+为啥搞这个？
+起因：主要是为了删 A**ba##Protect 我就装个优酷看视频，直接给我带了个全家桶（DLP），没必要哦~
