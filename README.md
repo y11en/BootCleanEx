@@ -7,4 +7,5 @@
 
 ## demo
 
-!()[https://github.com/y11en/BootCleanEx/blob/master/demo.gif]
+![](https://github.com/y11en/BootCleanEx/blob/master/demo.gif)
+
